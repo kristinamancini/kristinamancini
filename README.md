@@ -20,7 +20,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=white)
-- 🖌️ &nbsp;
+- 💻 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
  
