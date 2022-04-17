@@ -19,12 +19,18 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=white)
+- 🖌️ &nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
  
 <br>
+<br>
 
+<div align = center
+     
 [![Kristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinamancini&hide=stars&count_private=true&show_icons=true)](https://github.com/kristinamancini/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinamancini&hide=css,kotlin&layout=compact)](https://github.com/kristinamancini/github-readme-stats)
 
-
+</div>
 
 <!-- <br> -->
 
