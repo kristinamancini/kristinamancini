@@ -22,6 +22,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=white)
 - 🖌️ &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
+  ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
  
 <br>
 <br>
