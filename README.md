@@ -1,10 +1,7 @@
 ## Hi, I’m Kristina! 👋 
 
+#### Always curious and interested in learning new things. 
 
-
-
-
-### About
 
 -  **Learning :** Full-Stack Development | Technical Writing | Open-Source	
 -  **Languages :** Java, Python
@@ -27,19 +24,17 @@
 <br>
 <br>
 
-<div align = center
-     
-[![Kristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinamancini&hide=stars&count_private=true&show_icons=true)](https://github.com/kristinamancini/github-readme-stats) 
+[![Kristina's Github Stats](https://github-readme-stats.vercel.app/api?username=kristinamancini&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
             
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinamancini&hide=css,kotlin&layout=compact)](https://github.com/kristinamancini/github-readme-stats)
-
-</div>
-
+            
+            
 <!-- <br> -->
 
 <!--- 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
+            
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinamancini&hide=css,kotlin&layout=compact)](https://github.com/kristinamancini/github-readme-stats)-->
   
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=kristinamancini.visitor-badge)-->
 <!--[![](https://img.shields.io/badge/LinkedIn-kristinamancini-blue)](https://www.linkedin.com/in/kristina-mancini/)
