@@ -1,8 +1,8 @@
-### Hi! 👋 
+### Hi, I'm Kristina 👋 
 
 ---
 
-Hello! My name is Kristina. I am interested in full stack development, technical writing, and contributing to open source. I have experience using Java and Python. I am learning web development and open source. In my downtime, I love taking pictures and gaming! 
+Welcome to my Github! I am interested in full stack development, technical writing, and contributing to open source. I have experience using Java and Python. I am learning web development and open source. In my downtime, I love taking pictures and gaming! 
 
 <br>
 
