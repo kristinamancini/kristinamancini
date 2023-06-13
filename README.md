@@ -23,9 +23,9 @@ Welcome to my Github! I am interested in full stack development, technical writi
 
 <br>
 
-<!-- Github Statistics-->
+<!-- Github Statistics
 [![Kristina's Github Stats](https://github-readme-stats.vercel.app/api?username=kristinamancini&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-            
+-->
  ---
  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinamancini&hide=css,kotlin&layout=compact)](https://github.com/kristinamancini/github-readme-stats)
