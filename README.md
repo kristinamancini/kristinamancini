@@ -4,8 +4,8 @@
 
 Welcome to my Github! I am interested in full stack development, technical writing, and contributing to open source. I have experience using Java and Python. I am learning web development and open source. In my downtime, I love taking pictures and gaming! 
 
-<br>
 
+<!--
 ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -20,8 +20,7 @@ Welcome to my Github! I am interested in full stack development, technical writi
 💻 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
-
-<br>
+-->
 
 <!-- Github Statistics
 [![Kristina's Github Stats](https://github-readme-stats.vercel.app/api?username=kristinamancini&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
