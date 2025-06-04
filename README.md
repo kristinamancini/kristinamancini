@@ -1,9 +1,11 @@
 ### Hi, I'm Kristina 👋 
 
----
+
+
+<!--
 
 Welcome to my Github! I am interested in full stack development, technical writing, and contributing to open source. I have experience using Java, Python, HTML, CSS, and Javascript. I am learning web development and open source. In my downtime, I love taking pictures and gaming! 
-
+-->
 
 <!--
 ⚙️ &nbsp;
@@ -25,7 +27,7 @@ Welcome to my Github! I am interested in full stack development, technical writi
 <!-- Github Statistics
 [![Kristina's Github Stats](https://github-readme-stats.vercel.app/api?username=kristinamancini&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
- ---
+
  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinamancini&hide=css,kotlin&layout=compact)](https://github.com/kristinamancini/github-readme-stats)
 -->
